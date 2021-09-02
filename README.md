@@ -9,7 +9,8 @@ Loading Data and checking for missing values.
 
 ** Visualization**
 
-![](![image](https://user-images.githubusercontent.com/83450933/131813768-95159f2f-214f-47dc-9565-39945e08a0e8.png))
+![Alt Text](![image](https://user-images.githubusercontent.com/83450933/131814336-8c1e4430-4003-473c-8dc6-604ca7176e46.png)
+)
 
 
 Converting the categorical values into encoded values using Label Encoder
