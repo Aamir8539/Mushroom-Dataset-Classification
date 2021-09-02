@@ -9,8 +9,7 @@ Loading Data and checking for missing values.
 
 ** Visualization**
 
-![Alt Text](![image](https://user-images.githubusercontent.com/83450933/131814336-8c1e4430-4003-473c-8dc6-604ca7176e46.png)
-)
+![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/ROC.png)
 
 
 Converting the categorical values into encoded values using Label Encoder
