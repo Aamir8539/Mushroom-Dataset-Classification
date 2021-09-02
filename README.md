@@ -36,24 +36,24 @@ d. *Cap Color Countplot*
 
 7. Modeling Using Naive Bayes machine learning algorithms
 
-8. Classification report in table format
+**Classification report in table format**
   
-Model	                  -     Naive Bayes	
+i.    Model	                  -     Naive Bayes	
 
-Precision Score	        -     0.94855  
+ii.   Precision Score	        -     0.94855  
 
-Recall Score	          -     0.948694
+iii.  Recall Score	          -     0.948694
 
-Accuracy Score	        -     0.945839
+iV.   Accuracy Score	        -     0.945839
 
-f1-score                -     0.945839
+V.    f1-score                -     0.945839
           	                	          	          
-9. Plotting Confusion Matrix
+8. Plotting Confusion Matrix
 
 ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/CM.png)
 
-10. Plotting ROC Cruve
+9. Plotting ROC Cruve
 
 ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/ROC.png)
 
-For complete analysis please see my python notebook 'Naive-Bayes-Classification-Project'.
+10.For complete analysis please see my python notebook 'Naive-Bayes-Classification-Project'.
