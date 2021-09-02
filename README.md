@@ -1,59 +1,67 @@
-**Mushroom-Classification**
+<h1> Mushroom-Classification </h1>
 
-1. *CLassification of mushrooms into two categories: Edible and Non-Edible*
+    1. *CLassification of mushrooms into two categories: Edible and Non-Edible*
 
-2. This data is taken from Kaggle.
+    2. This data is taken from Kaggle.
+    
+    3. Import Packages
+    
+    4. Read the data
+    
+    5. Understand and prepare the data
 
-3. Data PreProcessing
-
-4. Loading Data and checking for missing values.
+    6. Checking for missing values.
 
 **Visualizing data using Matplotlib and seaborn libraries.**
 
-a. *Class Countplot*
+    a. *Class Countplot*
 
-![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Class.png)
+    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Class.png)
 
-b. *Stalk Root Countplot*
+    b. *Stalk Root Countplot*
 
-![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Stalk%20Root.png)
+    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Stalk%20Root.png)
 
-c. *Stalk Shape Countplot*
+    c. *Stalk Shape Countplot*
 
-![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Stalk%20Shape.png)
+    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Stalk%20Shape.png)
 
-d. *Cap Shape Countplot*
+    d. *Cap Shape Countplot*
 
-![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Cap-Shape.png)
+    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Cap-Shape.png)
 
-d. *Cap Color Countplot*
+    d. *Cap Color Countplot*
 
-![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Cap%20Color.png)
+    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Cap%20Color.png)
 
-5. Converting the categorical values into encoded values using Label Encoder
+    7. Converting the categorical values into encoded values using Label Encoder
+    
+    8. Split data into dependent and independent variables
 
-6. Standardizing the data using Standard Scaler
+    9. Standardizing the data using Standard Scaler
+    
+    10. Feature salection
 
-7. Modeling Using Naive Bayes machine learning algorithms
+    11. Modeling Using Naive Bayes machine learning algorithms
 
-**Classification report in table format**
+<h3> Classification report in table format </h3>    
   
-i.    Model	                  -     Naive Bayes	
+    i.    Model	                  -     Naive Bayes	
 
-ii.   Precision Score	        -     0.94855  
+    ii.   Precision Score	        -     0.94855  
 
-iii.  Recall Score	          -     0.948694
+    iii.  Recall Score	          -     0.948694
 
-iV.   Accuracy Score	        -     0.945839
+    iV.   Accuracy Score	        -     0.945839
 
-V.    f1-score                -     0.945839
+    V.    f1-score                -     0.945839
           	                	          	          
-8. Plotting Confusion Matrix
+    12. Plotting Confusion Matrix
 
-![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/CM.png)
+    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/CM.png)
 
-9. Plotting ROC Cruve
+    13. Plotting ROC Cruve
 
-![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/ROC.png)
+    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/ROC.png)
 
-10.For complete analysis please see my python notebook 'Naive-Bayes-Classification-Project'.
+    14.For complete analysis please see my python notebook 'Naive-Bayes-Classification-Project'.
