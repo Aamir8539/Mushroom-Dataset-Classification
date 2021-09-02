@@ -24,7 +24,7 @@ Naive Bayes	          0.94855	                0.948694	          0.945839	      
 
 
   Plotting ROC for better visualization of results and confusion matrix for knowing the correct number of predictions.
-  
+  ![](ROC.png)
   
 
 For complete analysis please see my python notebook 'Naive-Bayes-Classification-Project'.
