@@ -1,28 +1,42 @@
-#Mushroom-Classification
+**Mushroom-Classification**
 
-*CLassification of mushrooms into two categories: Edible and Non-Edible*
+1. *CLassification of mushrooms into two categories: Edible and Non-Edible*
 
-This data is taken from Kaggle.
+2. This data is taken from Kaggle.
 
-Data PreProcessing
-Loading Data and checking for missing values.
+3. Data PreProcessing
 
-** Visualization**
+4. Loading Data and checking for missing values.
 
-![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/ROC.png)
+**Visualizing data using Matplotlib and seaborn libraries.**
 
+a. *Class Countplot*
 
-Converting the categorical values into encoded values using Label Encoder
+![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Class.png)
 
-Standardizing the data using Standard Scaler
+b. *Stalk Root Countplot*
 
+![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Stalk%20Root.png)
 
-Visualizing data using Matplotlib and seaborn libraries.
+c. *Stalk Shape Countplot*
 
-Modeling
-Using Naive Bayes machine learning algorithms
+![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Stalk%20Shape.png)
 
-Classification report in table format
+d. *Cap Shape Countplot*
+
+![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Cap-Shape.png)
+
+d. *Cap Color Countplot*
+
+![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Cap%20Color.png)
+
+5. Converting the categorical values into encoded values using Label Encoder
+
+6. Standardizing the data using Standard Scaler
+
+7. Modeling Using Naive Bayes machine learning algorithms
+
+8. Classification report in table format
   
 Model	                  -     Naive Bayes	
 
@@ -34,10 +48,12 @@ Accuracy Score	        -     0.945839
 
 f1-score                -     0.945839
           	                	          	          
+9. Plotting Confusion Matrix
 
+![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/CM.png)
 
-Plotting ROC for better visualization of results and confusion matrix for knowing the correct number of predictions.
-  
-  
+10. Plotting ROC Cruve
+
+![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/ROC.png)
 
 For complete analysis please see my python notebook 'Naive-Bayes-Classification-Project'.
