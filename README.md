@@ -16,23 +16,23 @@
 
     a. *Class Countplot*
 
-    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Class.png)
+   ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Class.png)
 
     b. *Stalk Root Countplot*
 
-    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Stalk%20Root.png)
+   ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Stalk%20Root.png)
 
     c. *Stalk Shape Countplot*
 
-    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Stalk%20Shape.png)
+   ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Stalk%20Shape.png)
 
     d. *Cap Shape Countplot*
 
-    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Cap-Shape.png)
+   ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Cap-Shape.png)
 
     d. *Cap Color Countplot*
 
-    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Cap%20Color.png)
+   ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Cap%20Color.png)
 
     7. Converting the categorical values into encoded values using Label Encoder
     
@@ -58,10 +58,10 @@
           	                	          	          
     12. Plotting Confusion Matrix
 
-    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/CM.png)
+   ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/CM.png)
 
     13. Plotting ROC Cruve
 
-    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/ROC.png)
+   ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/ROC.png)
 
     14.For complete analysis please see my python notebook 'Naive-Bayes-Classification-Project'.
