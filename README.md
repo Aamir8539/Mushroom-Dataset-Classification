@@ -19,11 +19,15 @@ Using Naive Bayes machine learning algorithms
 
 Classification report in table format
   
-Model	                Precision Score	        Recall Score	      Accuracy Score	    f1-score
-Naive Bayes	          0.94855	                0.948694	          0.945839	          0.945839
+Model	                  -     Naive Bayes	
+Precision Score	        -     0.94855      
+Recall Score	          -     0.948694
+Accuracy Score	        -     0.945839
+f1-score                -     0.945839
+          	                	          	          
 
 
-  Plotting ROC for better visualization of results and confusion matrix for knowing the correct number of predictions.
+Plotting ROC for better visualization of results and confusion matrix for knowing the correct number of predictions.
   
   
 
