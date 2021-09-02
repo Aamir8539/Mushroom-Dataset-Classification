@@ -67,11 +67,11 @@
 
 <h3> Classification report in table format </h3>    
   
-    i.    Model	                  -     Naive Bayes Classification
-    ii.   Precision Score	      -     0.94855  
-    iii.  Recall Score	          -     0.948694
-    iV.   Accuracy Score	      -     0.945839
-    V.    f1-score                -     0.945839
+    i.    Model	                  -       Naive Bayes Classification
+    ii.   Precision Score	      -       0.94855  
+    iii.  Recall Score	          -       0.948694
+    iV.   Accuracy Score	      -       0.945839
+    V.    f1-score                -       0.945839
           	                	          	          
     12. Plotting Confusion Matrix
 
