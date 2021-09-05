@@ -1,8 +1,8 @@
 <h1> Mushroom-Classification </h1>
 
-    1. CLassification of mushrooms into two categories: Edible and Non-Edible
+<h3>1. CLassification of mushrooms into two categories: Edible and Non-Edible </h3>
     
-    2. Packages Used to solve this classification problem 
+<h3>2. Packages Used to solve this classification problem </h3>
     
            a. import numpy as np
            b. import pandas as pd
@@ -16,20 +16,19 @@
            k. from sklearn import metrics
            l. from sklearn.metrics import roc_curve
     
-   3. Load the dataset      
+ <h3>3. Load the dataset   </h3>   
     
-   4. Understand and prepare the data
+ <h3>4. Understand and prepare the data </h3>
     
         First, I am getting a basic description of the data, to look quickly at the overall data to get some simple, 
         easy-to-understand information. This is just to get a basic feel for the data.Unsing Genral Functions.
     
         a. Shape of Dataset --->  (8124, 23)
 
-    5. Checking for missing values.
+ <h3>5. Checking for missing values. </h3>
     
         a. 0 Null-values present in the dataset.
-
-**Visualizing data using Matplotlib and seaborn libraries.**
+ <h3>Visualizing data using Matplotlib and seaborn libraries.</h3>
 
     a. *Class Countplot*
 
@@ -51,22 +50,22 @@
 
    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/Cap%20Color.png)
 
-    6. Converting the categorical values into encoded values using Label Encoder
+<h3>6. Converting the categorical values into encoded values using Label Encoder </h3>
     
-    7. Split data into dependent and independent variables
+<h3>7. Split data into dependent and independent variables </h3>
 
-    8. Standardizing the data using Standard Scaler
+<h3>8. Standardizing the data using Standard Scaler </h3>
     
-    9. Feature salection
+<h3>9. Feature salection </h3>
     
            a. x_train (6093, 95)
            b. y_train (6093, 1)
            c. x_test (2031, 95)
            d. y_test (2031, 1)
 
-    10. Modeling Using Naive Bayes machine learning algorithms
+<h3>10. Modeling Using Naive Bayes machine learning algorithms <h3>
 
-<h3> Classification report in table format </h3>    
+<h3>11. Classification report in table format </h3>    
   
     i.    Model	                  -       Naive Bayes Classification
     ii.   Precision Score	      -       0.94855  
@@ -74,12 +73,12 @@
     iV.   Accuracy Score	      -       0.945839
     V.    f1-score                -       0.945839
           	                	          	          
-    11. Plotting Confusion Matrix
+<h3>12. Plotting Confusion Matrix </h3>
 
    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/CM.png)
 
-    12. Plotting ROC Cruve
+<h3>13. Plotting ROC Cruve </h3>
 
    ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/ROC.png)
 
-    13.For complete analysis please see my python notebook 'Naive-Bayes-Classification-Project'.
+<h3>14.For complete analysis please see my python notebook 'Naive-Bayes-Classification-Project'.  </h3>
