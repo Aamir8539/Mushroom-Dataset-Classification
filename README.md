@@ -79,6 +79,6 @@
 
 <h3>13. Plotting ROC Cruve </h3>
 
-   ![Alt Text](https://github.com/Aamir8539/Naive-Bayes-Classification-Project/blob/main/Image/ROC.png)
+   ![Alt Text](https://github.com/Aamir8539/Mushroom-Dataset-Classification/blob/main/Image/ROC.png)
 
 <h3>14.For complete analysis please see my python notebook 'Naive-Bayes-Classification-Project'.  </h3>
